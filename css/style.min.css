@@ -101,6 +101,9 @@ p {
   font-size: 1.6rem;
   padding: .7rem 1rem; }
 
+.about {
+  text-align: right ; }
+  
 img {
   max-width: 100%; }
 
@@ -127,8 +130,9 @@ a:hover {
 .section-title {
   text-align: center; }
 
+
 .bg-white {
-  background-color: #fff; }
+  background-color: #fff; } 
 
 .bg-grey {
   background-color: #f7f8f9; }
