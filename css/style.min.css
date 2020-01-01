@@ -122,7 +122,7 @@ a:hover {
   padding: .5rem; }
 
 .section-content {
-  padding-top: 80px;
+  padding-top: 50px;
   padding-bottom: 30px; }
 
 .title-wrap,
@@ -382,6 +382,9 @@ a {
 
 #gtco-counter {
   position: relative; }
+
+#gtco-counter {
+  padding: 0px; }
 
 .counter-item {
   text-align: center;
