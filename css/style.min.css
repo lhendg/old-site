@@ -25,7 +25,7 @@ body {
     position: fixed;
     opacity: .8;
     z-index: -1;
-    background: #0c1f49; }
+    background: #0c1f47; }
 
 .boxed-page {
   margin: 0 auto;
@@ -103,7 +103,6 @@ p {
 
 .about {
   text-align: right ; }
-  
 img {
   max-width: 100%; }
 
@@ -180,17 +179,17 @@ a {
   transform: translateY(-1px); }
 
 .btn-orange {
-  background-color: #FDBA51 !important;
+  background-color: #f15e75 !important;
   color: #fff !important;
   border: none !important; }
 
 .btn-cyan {
-  background-color: #35B8AD !important;
+  background-color: #f15e75 !important;
   color: #fff !important;
   border: none !important; }
 
 .btn-red {
-  background-color: #FC665F !important;
+  background-color: #f15e75 !important;
   color: #fff !important;
   border: none !important; }
 
@@ -256,7 +255,7 @@ a {
     display: block;
     content: "";
     background-color: rgba(255, 255, 255, 0.95);
-    opacity: 0.8;
+    opacity: 0.7;
     top: 0;
     bottom: 0;
     left: 0;
@@ -412,7 +411,7 @@ a {
   .price-box small {
     font-size: 60%; }
   .price-box .price-box-list {
-    min-height: 150px; }
+    min-height: px; }
 
 footer {
   border-bottom-left-radius: 5px;
